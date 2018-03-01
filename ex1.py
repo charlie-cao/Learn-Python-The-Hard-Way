@@ -18,5 +18,12 @@ print "hello 来自中国"
 
 print "😊 好玩二"
 
+print "youyouyou"
+print "youyouyou"
+print "youyouyou"
+print "youyouyou"
+print "youyouyou"
+print "youyouyou"
+print "youyouyou"
 
 #print "这应该是一个注释"
