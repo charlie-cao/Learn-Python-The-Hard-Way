@@ -16,7 +16,7 @@ print 'I "asid" do not thouch this.'
 
 print "hello 来自中国"
 
-print "😊"
+print "😊 好玩二"
 
 
 #print "这应该是一个注释"
