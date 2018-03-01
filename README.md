@@ -3,8 +3,13 @@
 
 git命令
 
-git init
-git add -A
-git commit -m "first commit"
-git remote add origin git@github.com:pplboy/Learn-Python-The-Hard-Way.git
-git push -u origin master
+> git init
+>
+> git add -A
+> 
+> git commit -m "first commit"
+> 
+> git remote add origin git@github.com:pplboy/Learn-Python-The-Hard-Way.git
+> 
+> git push -u origin master
+
